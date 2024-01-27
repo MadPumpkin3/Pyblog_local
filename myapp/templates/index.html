@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <title>{{ title_nm }}</title>
+</head>
+<body>
+    {% for list in dataList %}
+        {{ list.id }}
+        {{ list.title }}
+        {{ list.regist_dt }}
+        {{ list.update_dt }}
+    {% endfor %}
+</body>
+</html>
