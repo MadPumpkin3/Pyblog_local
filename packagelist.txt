@@ -1,0 +1,36 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+asgiref=3.5.2=py312hca03da5_0
+bzip2=1.0.8=h620ffc9_4
+ca-certificates=2023.12.12=hca03da5_0
+django=4.1=py312hca03da5_0
+django-debug-toolbar=4.2.0=pypi_0
+django-environ=0.4.5=py_1
+django-extensions=3.0.9=pypi_0
+expat=2.5.0=h313beb8_0
+libcxx=16.0.6=h4653b0c_0
+libexpat=2.5.0=hb7217d7_1
+libffi=3.4.4=hca03da5_0
+libsqlite=3.44.2=h091b4b1_0
+libzlib=1.2.13=h53f4e23_5
+lz4-c=1.9.4=h313beb8_0
+mysql-common=8.0.33=hf9e6398_6
+mysql-libs=8.0.33=he3dca8b_6
+mysqlclient=2.2.1=py312h20a0b95_0
+ncurses=6.4=h313beb8_0
+openssl=3.2.0=h0d3ecfb_1
+pip=23.3.2=pypi_0
+python=3.12.1=hdf0ec26_1_cpython
+python_abi=3.12=4_cp312
+readline=8.2=h1a28f6b_0
+setuptools=68.2.2=py312hca03da5_0
+six=1.16.0=pyhd3eb1b0_1
+sqlite=3.41.2=h80987f9_0
+sqlparse=0.4.4=py312hca03da5_0
+tk=8.6.13=h5083fa2_1
+tzdata=2023d=h04d1e81_0
+wheel=0.41.2=py312hca03da5_0
+xz=5.4.5=h80987f9_0
+zlib=1.2.13=h53f4e23_5
+zstd=1.5.5=hd90d995_0
