@@ -2,3 +2,8 @@
 django==4.1
 
 django-environ==0.4.5
+
+# 서버에 mysqlclient 설치 전, 서버 apt로 사전 설치 패키지 존재
+apt install default-libmysqlclient-dev pkg-config -y
+
+mysqlclient
